@@ -15,6 +15,7 @@ public class GFG {
   
         /* Collections.sort method is sorting the 
         elements of ArrayList in ascending order. */
+        //sort
         Collections.sort(al, Collections.reverseOrder()); 
   
         // Let us print the sorted list 
